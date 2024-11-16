@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716233227447",
+    "project_id": "intellichat-app-b7ea7",
+    "storage_bucket": "intellichat-app-b7ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716233227447:android:1f17ad25dac0f80b57a132",
+        "android_client_info": {
+          "package_name": "com.example.intellichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucfdZwTvKtgrr4Zwns_uXZyraq6y70-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
